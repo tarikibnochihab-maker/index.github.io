@@ -1,0 +1,50 @@
+/*div {
+
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    margin: 20px auto;
+    border-radius: 85px;
+    
+    border-top-left-radius: 10px 20px;
+    border-bottom-right-radius: 20px;
+    }
+
+    
+    /*.parent {
+    width: 600px;
+    overflow: hidden;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #26ad4f;
+    
+}*/
+*{ -webkit-box-sizing: border-box;
+-moz-box-sizing: border-box;
+box-sizing: border-box;
+
+
+
+
+
+}
+    
+    .one { background-color: #e7e5eb;
+    
+    width: 200px;
+    height: 100px;
+    float: left;
+   padding: 10px;
+    border: 10px solid rgb(197, 15, 15);
+    box-sizing: border-box;*/
+    transition: all 2s 0.5s linear;
+    transition-duration: 5s;
+    transition-timing-function: ease;*/
+
+    }
+
+    .one:hover {
+    width: 280px;
+    height: 120px;
+    
+    }
